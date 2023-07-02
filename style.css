@@ -1,0 +1,56 @@
+body{
+    background-color:#E0D1DF;
+}
+header{
+    height:max-content;
+}
+.edu{
+padding-left: 10em;
+margin-top:2cm;
+font-family: 'Times New Roman';
+font-size: 1.2em;
+
+}
+.exp{
+    padding: 10em;
+    float: left;
+    line-height: 0.75cm;
+    font-family: 'Times New Roman';
+    margin-bottom:1px;
+    font-size: 1.2em;
+}
+.programmer{
+    height: 300px;
+    float: right;
+    padding-block: 0px 20px;
+    border: 20cm;
+    
+    
+}
+
+.line{
+    line-height: 0.75cm;
+}
+.graduation{
+    height: 300px;
+    float: left;
+    padding-left: 10em;
+    margin-bottom: 1px;
+   
+    
+  }
+.pro{
+    height: 300px;
+    float: right;
+    padding-block:0px 20px;
+    border: 20cm;
+   
+}
+.header{
+    font-size: xx-large;
+}
+.p2{
+    font-size:x-large;
+    font-family: 'Times New Roman';
+    
+}
